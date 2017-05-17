@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+	margin: 0 auto;
+    background-color: gray;
+}
+
+.top {
+    height: 70px;
+    background-color: purple;
+    padding: 1em;
+}
+
+.center {
+    height: 960px;
+    max-width: 75%;
+    background-color: red;
+    margin: auto;
+    padding: 0.5em 0;
+}
+
+.box {
+    height: 225px;
+    max-width: 75%;
+    background-color: blue;
+    margin: auto;
+    padding: 1em;
+}
+
+span {
+    padding: 1em;
+}
+
+.green {
+    background-color: green;
+    height: 175px;
+    width: 325px;
+    float: right;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 125px;
+    width: 125px;
+    float: left;
+}

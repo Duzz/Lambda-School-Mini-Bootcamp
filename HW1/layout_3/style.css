@@ -1,0 +1,44 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+
+.top {
+    background-color: red;
+    height: 100px;
+    position: relative;
+}
+
+.center {
+    
+}
+
+.middle {
+    background-color: purple;
+    width: 34%;
+    height: 800px;
+    margin: 0;
+    float: left;
+}
+
+.middle-left {
+    background-color: blue;
+    width: 33%;
+    height: 800px;
+    float: left;
+}
+
+.middle-right {
+    background-color: yellow;
+    width: 33%;
+    height: 800px;
+    float: left;
+}
+
+.bottom {
+    background-color: green;
+    height: 100px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
